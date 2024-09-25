@@ -9,9 +9,9 @@ namespace Common
 
         public Type? Type { get; set; }
 
-        public object Key { get; set; } = string.Empty;
+        public object? Key { get; set; }
 
-        public string Name { get; set; } = string.Empty;
+        public string? Name { get; set; }
 
         public override object? ProvideValue(IServiceProvider serviceProvider)
         {
