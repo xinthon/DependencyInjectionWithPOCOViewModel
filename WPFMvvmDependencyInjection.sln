@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacDI", "AutofacDI\AutofacDI.csproj", "{F8B2C0AA-BE39-40FF-AA9F-89AD73449E7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismDI", "PrismDI\PrismDI.csproj", "{1C982D82-4985-42D9-9E37-98911DD0759F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F8B2C0AA-BE39-40FF-AA9F-89AD73449E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8B2C0AA-BE39-40FF-AA9F-89AD73449E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8B2C0AA-BE39-40FF-AA9F-89AD73449E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C982D82-4985-42D9-9E37-98911DD0759F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C982D82-4985-42D9-9E37-98911DD0759F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C982D82-4985-42D9-9E37-98911DD0759F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C982D82-4985-42D9-9E37-98911DD0759F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
