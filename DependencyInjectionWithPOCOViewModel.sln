@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismDI", "PrismDI\PrismDI.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityDI", "UnityDI\UnityDI.csproj", "{B0A8E8DB-49FB-4D1E-9058-862E98B72761}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DryIocDI", "DryIocDI\DryIocDI.csproj", "{35EA690F-83B5-4C56-BBA3-99DB5F53BA72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B0A8E8DB-49FB-4D1E-9058-862E98B72761}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0A8E8DB-49FB-4D1E-9058-862E98B72761}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0A8E8DB-49FB-4D1E-9058-862E98B72761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35EA690F-83B5-4C56-BBA3-99DB5F53BA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EA690F-83B5-4C56-BBA3-99DB5F53BA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EA690F-83B5-4C56-BBA3-99DB5F53BA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EA690F-83B5-4C56-BBA3-99DB5F53BA72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
